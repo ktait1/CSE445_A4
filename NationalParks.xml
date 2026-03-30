@@ -132,16 +132,4 @@
     </Address>
   </NationalPark>
 
-  <NationalPark>
-    <Name>Sequoia</Name>
-    <Phone>559-565-3341</Phone>
-    <Phone>559-565-3700</Phone>
-    <Address NearestAirport="Fresno">
-      <Number>47050</Number>
-      <Street>Generals Highway</Street>
-      <City>Three Rivers</City>
-      <State>CA</State>
-      <Zip>93271</Zip>
-    </Address>
-  </NationalPark>
 </NationalParks>
