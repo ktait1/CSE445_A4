@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<NationalPark xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-              xsi:noNamespaceSchemaLocation="NationalParks.xsd">
+<NationalParks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="NationalParks.xsd">
   <NationalPark Rating="4.9">
     <Name>Grand Canyon</Name>
     <Name>Grand Canyon Duplicate</Name>
@@ -12,4 +11,4 @@
       <Zip>86023</Zip>
     </Address>
   </NationalPark>
-</NationalPark>
+</NationalParks>
